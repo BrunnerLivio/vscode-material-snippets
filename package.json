@@ -1,0 +1,35 @@
+{
+    "name": "material color snippets",
+    "publisher": "brunnerlivio",
+    "displayName": "Material Color Snippets",
+    "description": "Material Color Snippets",
+    // "icon": "images/angular-shield.png",
+    "galleryBanner": {
+        "color": "#00bcd4",
+        "theme": "light"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brunnerlivio/vscode-material-color-snippets.git"
+    },
+    "version": "0.1.0",
+    "engines": { "vscode": "0.10.x" },
+    "categories": ["Snippets"],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/scss.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/less.json"
+            }
+        ]
+    }
+}
