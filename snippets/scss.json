@@ -252,85 +252,85 @@
 		]
 	},
 	"Material Deep Purple 500": {
-		"prefix": "md-deep-purple-500",
+		"prefix": "md-deep purple-500",
 		"body": [
 			"#673ab7"
 		]
 	},
 	"Material Deep Purple 50": {
-		"prefix": "md-deep-purple-50",
+		"prefix": "md-deep purple-50",
 		"body": [
 			"#ede7f6"
 		]
 	},
 	"Material Deep Purple 100": {
-		"prefix": "md-deep-purple-100",
+		"prefix": "md-deep purple-100",
 		"body": [
 			"#d1c4e9"
 		]
 	},
 	"Material Deep Purple 200": {
-		"prefix": "md-deep-purple-200",
+		"prefix": "md-deep purple-200",
 		"body": [
 			"#b39ddb"
 		]
 	},
 	"Material Deep Purple 300": {
-		"prefix": "md-deep-purple-300",
+		"prefix": "md-deep purple-300",
 		"body": [
 			"#9575cd"
 		]
 	},
 	"Material Deep Purple 400": {
-		"prefix": "md-deep-purple-400",
+		"prefix": "md-deep purple-400",
 		"body": [
 			"#7e57c2"
 		]
 	},
 	"Material Deep Purple 600": {
-		"prefix": "md-deep-purple-600",
+		"prefix": "md-deep purple-600",
 		"body": [
 			"#5e35b1"
 		]
 	},
 	"Material Deep Purple 700": {
-		"prefix": "md-deep-purple-700",
+		"prefix": "md-deep purple-700",
 		"body": [
 			"#512da8"
 		]
 	},
 	"Material Deep Purple 800": {
-		"prefix": "md-deep-purple-800",
+		"prefix": "md-deep purple-800",
 		"body": [
 			"#4527a0"
 		]
 	},
 	"Material Deep Purple 900": {
-		"prefix": "md-deep-purple-900",
+		"prefix": "md-deep purple-900",
 		"body": [
 			"#311b92"
 		]
 	},
 	"Material Deep Purple A100": {
-		"prefix": "md-deep-purple-A100",
+		"prefix": "md-deep purple-A100",
 		"body": [
 			"#b388ff"
 		]
 	},
 	"Material Deep Purple A200": {
-		"prefix": "md-deep-purple-A200",
+		"prefix": "md-deep purple-A200",
 		"body": [
 			"#7c4dff"
 		]
 	},
 	"Material Deep Purple A400": {
-		"prefix": "md-deep-purple-A400",
+		"prefix": "md-deep purple-A400",
 		"body": [
 			"#651fff"
 		]
 	},
 	"Material Deep Purple A700": {
-		"prefix": "md-deep-purple-A700",
+		"prefix": "md-deep purple-A700",
 		"body": [
 			"#6200ea"
 		]
@@ -504,85 +504,85 @@
 		]
 	},
 	"Material Light Blue 500": {
-		"prefix": "md-light-blue-500",
+		"prefix": "md-light blue-500",
 		"body": [
 			"#03a9f4"
 		]
 	},
 	"Material Light Blue 50": {
-		"prefix": "md-light-blue-50",
+		"prefix": "md-light blue-50",
 		"body": [
 			"#e1f5fe"
 		]
 	},
 	"Material Light Blue 100": {
-		"prefix": "md-light-blue-100",
+		"prefix": "md-light blue-100",
 		"body": [
 			"#b3e5fc"
 		]
 	},
 	"Material Light Blue 200": {
-		"prefix": "md-light-blue-200",
+		"prefix": "md-light blue-200",
 		"body": [
 			"#81d4fa"
 		]
 	},
 	"Material Light Blue 300": {
-		"prefix": "md-light-blue-300",
+		"prefix": "md-light blue-300",
 		"body": [
 			"#4fc3f7"
 		]
 	},
 	"Material Light Blue 400": {
-		"prefix": "md-light-blue-400",
+		"prefix": "md-light blue-400",
 		"body": [
 			"#29b6f6"
 		]
 	},
 	"Material Light Blue 600": {
-		"prefix": "md-light-blue-600",
+		"prefix": "md-light blue-600",
 		"body": [
 			"#039be5"
 		]
 	},
 	"Material Light Blue 700": {
-		"prefix": "md-light-blue-700",
+		"prefix": "md-light blue-700",
 		"body": [
 			"#0288d1"
 		]
 	},
 	"Material Light Blue 800": {
-		"prefix": "md-light-blue-800",
+		"prefix": "md-light blue-800",
 		"body": [
 			"#0277bd"
 		]
 	},
 	"Material Light Blue 900": {
-		"prefix": "md-light-blue-900",
+		"prefix": "md-light blue-900",
 		"body": [
 			"#01579b"
 		]
 	},
 	"Material Light Blue A100": {
-		"prefix": "md-light-blue-A100",
+		"prefix": "md-light blue-A100",
 		"body": [
 			"#80d8ff"
 		]
 	},
 	"Material Light Blue A200": {
-		"prefix": "md-light-blue-A200",
+		"prefix": "md-light blue-A200",
 		"body": [
 			"#40c4ff"
 		]
 	},
 	"Material Light Blue A400": {
-		"prefix": "md-light-blue-A400",
+		"prefix": "md-light blue-A400",
 		"body": [
 			"#00b0ff"
 		]
 	},
 	"Material Light Blue A700": {
-		"prefix": "md-light-blue-A700",
+		"prefix": "md-light blue-A700",
 		"body": [
 			"#0091ea"
 		]
@@ -840,85 +840,85 @@
 		]
 	},
 	"Material Light Green 500": {
-		"prefix": "md-light-green-500",
+		"prefix": "md-light green-500",
 		"body": [
 			"#8bc34a"
 		]
 	},
 	"Material Light Green 50": {
-		"prefix": "md-light-green-50",
+		"prefix": "md-light green-50",
 		"body": [
 			"#f1f8e9"
 		]
 	},
 	"Material Light Green 100": {
-		"prefix": "md-light-green-100",
+		"prefix": "md-light green-100",
 		"body": [
 			"#dcedc8"
 		]
 	},
 	"Material Light Green 200": {
-		"prefix": "md-light-green-200",
+		"prefix": "md-light green-200",
 		"body": [
 			"#c5e1a5"
 		]
 	},
 	"Material Light Green 300": {
-		"prefix": "md-light-green-300",
+		"prefix": "md-light green-300",
 		"body": [
 			"#aed581"
 		]
 	},
 	"Material Light Green 400": {
-		"prefix": "md-light-green-400",
+		"prefix": "md-light green-400",
 		"body": [
 			"#9ccc65"
 		]
 	},
 	"Material Light Green 600": {
-		"prefix": "md-light-green-600",
+		"prefix": "md-light green-600",
 		"body": [
 			"#7cb342"
 		]
 	},
 	"Material Light Green 700": {
-		"prefix": "md-light-green-700",
+		"prefix": "md-light green-700",
 		"body": [
 			"#689f38"
 		]
 	},
 	"Material Light Green 800": {
-		"prefix": "md-light-green-800",
+		"prefix": "md-light green-800",
 		"body": [
 			"#558b2f"
 		]
 	},
 	"Material Light Green 900": {
-		"prefix": "md-light-green-900",
+		"prefix": "md-light green-900",
 		"body": [
 			"#33691e"
 		]
 	},
 	"Material Light Green A100": {
-		"prefix": "md-light-green-A100",
+		"prefix": "md-light green-A100",
 		"body": [
 			"#ccff90"
 		]
 	},
 	"Material Light Green A200": {
-		"prefix": "md-light-green-A200",
+		"prefix": "md-light green-A200",
 		"body": [
 			"#b2ff59"
 		]
 	},
 	"Material Light Green A400": {
-		"prefix": "md-light-green-A400",
+		"prefix": "md-light green-A400",
 		"body": [
 			"#76ff03"
 		]
 	},
 	"Material Light Green A700": {
-		"prefix": "md-light-green-A700",
+		"prefix": "md-light green-A700",
 		"body": [
 			"#64dd17"
 		]
@@ -1260,85 +1260,85 @@
 		]
 	},
 	"Material Deep Orange 500": {
-		"prefix": "md-deep-orange-500",
+		"prefix": "md-deep orange-500",
 		"body": [
 			"#ff5722"
 		]
 	},
 	"Material Deep Orange 50": {
-		"prefix": "md-deep-orange-50",
+		"prefix": "md-deep orange-50",
 		"body": [
 			"#fbe9e7"
 		]
 	},
 	"Material Deep Orange 100": {
-		"prefix": "md-deep-orange-100",
+		"prefix": "md-deep orange-100",
 		"body": [
 			"#ffccbc"
 		]
 	},
 	"Material Deep Orange 200": {
-		"prefix": "md-deep-orange-200",
+		"prefix": "md-deep orange-200",
 		"body": [
 			"#ffab91"
 		]
 	},
 	"Material Deep Orange 300": {
-		"prefix": "md-deep-orange-300",
+		"prefix": "md-deep orange-300",
 		"body": [
 			"#ff8a65"
 		]
 	},
 	"Material Deep Orange 400": {
-		"prefix": "md-deep-orange-400",
+		"prefix": "md-deep orange-400",
 		"body": [
 			"#ff7043"
 		]
 	},
 	"Material Deep Orange 600": {
-		"prefix": "md-deep-orange-600",
+		"prefix": "md-deep orange-600",
 		"body": [
 			"#f4511e"
 		]
 	},
 	"Material Deep Orange 700": {
-		"prefix": "md-deep-orange-700",
+		"prefix": "md-deep orange-700",
 		"body": [
 			"#e64a19"
 		]
 	},
 	"Material Deep Orange 800": {
-		"prefix": "md-deep-orange-800",
+		"prefix": "md-deep orange-800",
 		"body": [
 			"#d84315"
 		]
 	},
 	"Material Deep Orange 900": {
-		"prefix": "md-deep-orange-900",
+		"prefix": "md-deep orange-900",
 		"body": [
 			"#bf360c"
 		]
 	},
 	"Material Deep Orange A100": {
-		"prefix": "md-deep-orange-A100",
+		"prefix": "md-deep orange-A100",
 		"body": [
 			"#ff9e80"
 		]
 	},
 	"Material Deep Orange A200": {
-		"prefix": "md-deep-orange-A200",
+		"prefix": "md-deep orange-A200",
 		"body": [
 			"#ff6e40"
 		]
 	},
 	"Material Deep Orange A400": {
-		"prefix": "md-deep-orange-A400",
+		"prefix": "md-deep orange-A400",
 		"body": [
 			"#ff3d00"
 		]
 	},
 	"Material Deep Orange A700": {
-		"prefix": "md-deep-orange-A700",
+		"prefix": "md-deep orange-A700",
 		"body": [
 			"#dd2c00"
 		]
@@ -1464,61 +1464,61 @@
 		]
 	},
 	"Material Blue Grey 500": {
-		"prefix": "md-blue-grey-500",
+		"prefix": "md-blue grey-500",
 		"body": [
 			"#607d8b"
 		]
 	},
 	"Material Blue Grey 50": {
-		"prefix": "md-blue-grey-50",
+		"prefix": "md-blue grey-50",
 		"body": [
 			"#eceff1"
 		]
 	},
 	"Material Blue Grey 100": {
-		"prefix": "md-blue-grey-100",
+		"prefix": "md-blue grey-100",
 		"body": [
 			"#cfd8dc"
 		]
 	},
 	"Material Blue Grey 200": {
-		"prefix": "md-blue-grey-200",
+		"prefix": "md-blue grey-200",
 		"body": [
 			"#b0bec5"
 		]
 	},
 	"Material Blue Grey 300": {
-		"prefix": "md-blue-grey-300",
+		"prefix": "md-blue grey-300",
 		"body": [
 			"#90a4ae"
 		]
 	},
 	"Material Blue Grey 400": {
-		"prefix": "md-blue-grey-400",
+		"prefix": "md-blue grey-400",
 		"body": [
 			"#78909c"
 		]
 	},
 	"Material Blue Grey 600": {
-		"prefix": "md-blue-grey-600",
+		"prefix": "md-blue grey-600",
 		"body": [
 			"#546e7a"
 		]
 	},
 	"Material Blue Grey 700": {
-		"prefix": "md-blue-grey-700",
+		"prefix": "md-blue grey-700",
 		"body": [
 			"#455a64"
 		]
 	},
 	"Material Blue Grey 800": {
-		"prefix": "md-blue-grey-800",
+		"prefix": "md-blue grey-800",
 		"body": [
 			"#37474f"
 		]
 	},
 	"Material Blue Grey 900": {
-		"prefix": "md-blue-grey-900",
+		"prefix": "md-blue grey-900",
 		"body": [
 			"#263238"
 		]

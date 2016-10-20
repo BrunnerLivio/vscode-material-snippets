@@ -1,9 +1,8 @@
 {
-    "name": "material color snippets",
+    "name": "materialcolorsnippets",
     "publisher": "brunnerlivio",
     "displayName": "Material Color Snippets",
     "description": "Material Color Snippets",
-    // "icon": "images/angular-shield.png",
     "galleryBanner": {
         "color": "#00bcd4",
         "theme": "light"
