@@ -3,8 +3,9 @@
     "publisher": "brunnerlivio",
     "displayName": "Material Color Snippets",
     "description": "Material Color Snippets",
+    "icon": "images/logo.png",
     "galleryBanner": {
-        "color": "#00bcd4",
+        "color": "#009688",
         "theme": "light"
     },
     "license": "SEE LICENSE IN LICENSE.md",
@@ -12,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/brunnerlivio/vscode-material-color-snippets.git"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": { "vscode": "0.10.x" },
     "categories": ["Snippets"],
     "contributes": {
