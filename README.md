@@ -31,6 +31,14 @@ md-black
 md-white
 ```
 
+## Languages
+
+You can use this snippets in
+- *.scss
+- *.css
+- *.less
+- *.vue
+
 [Read More](https://material.google.com/style/color.html) about Material Color
 
 Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to activate snippets from within the editor.
