@@ -13,12 +13,11 @@
         "type": "git",
         "url": "https://github.com/brunnerlivio/vscode-material-color-snippets.git"
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "engines": { "vscode": "0.10.x" },
     "categories": ["Snippets"],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "css",
                 "path": "./snippets/css.json"
             },
@@ -29,6 +28,10 @@
             {
                 "language": "less",
                 "path": "./snippets/less.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/vue.json"
             }
         ]
     }
