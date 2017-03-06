@@ -35,6 +35,7 @@ md-white
 
 You can use this snippets in
 - *.scss
+- *.sass
 - *.css
 - *.less
 - *.vue
