@@ -1,3 +1,9 @@
+# 0.1.3
+07.03.2017
+- Add material shadows
+- Add sass support
+- Rename extension from `material-color-snippets` to `material-snippets`
+
 # 0.1.2 
 03.02.2017
 - Add vue support
