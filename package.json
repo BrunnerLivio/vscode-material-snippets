@@ -32,6 +32,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/vue.json"
+            },
+            {
+                "language": "sass",
+                "path": "./snippets/sass.json"
             }
         ]
     }
