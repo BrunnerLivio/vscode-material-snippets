@@ -1,3 +1,8 @@
+# 1.0.0
+
+- Add text and background
+- Format box-shadow and add semicolon
+
 # 0.1.3
 07.03.2017
 - Add material shadows

@@ -7,6 +7,7 @@ This extension for Visual Studio Code adds snippets for material colors and mate
 ## Usage
 Type part of a snippet, press `enter`, and the snippet unfolds.
 
+Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to activate snippets from within the editor.
 #### Material Colors
 ```css
 md-red-*
@@ -32,8 +33,10 @@ md-black
 md-white
 ```
 
+[Read More](https://material.io/guidelines/style/color.html) about Material Color
+
 #### Material Shadows
-```
+```css
 md-shadows-2dp
 md-shadows-3dp
 md-shadows-4dp
@@ -43,6 +46,25 @@ md-shadows-12dp
 md-shadows-16dp
 md-shadows-24dp
 ```
+[Read More](https://material.io/guidelines/material-design/elevation-shadows.html#elevation-shadows-elevation-android) about shadows
+
+#### Text and background colors
+
+```css
+md-primary-text-light
+md-secondary-text-light
+md-hint-text-light
+md-dividers-text-light
+md-primary-text-dark
+md-secondy-text-dark
+md-dividers-text-dark
+md-active-icon-dark
+md-inactive-icon-dark
+md-active-icon-light
+md-inactive-icon-light
+```
+[Read More](https://material.io/guidelines/style/color.html#color-text-background-colors) about text and background colors
+
 
 ## Languages
 
@@ -53,10 +75,9 @@ You can use this snippets in
 - *.less
 - *.vue
 
-[Read More](https://material.io/guidelines/style/color.html) about Material Color
+
 [Read More](https://material.io/guidelines/material-design/elevation-shadows.html) about Material Shadows
 
-Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to activate snippets from within the editor.
 
 ## Installation
 
