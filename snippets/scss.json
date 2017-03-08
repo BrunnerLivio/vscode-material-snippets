@@ -1542,49 +1542,49 @@
 	"Material Primary Text Light": {
 		"prefix": "md-primary-text-light",
 		"body": [
-			"rgba(#FFF, 1)"
+			"rgba(255, 255, 255, 1)"
 		]
 	},
 	"Material Secondary Text Light": {
 		"prefix": "md-secondary-text-light",
 		"body": [
-			"rgba(#FFF, 0.7)"
+			"rgba(255, 255, 255, 0.7)"
 		]
 	},
 	"Material Hint Text Light": {
 		"prefix": "md-hint-text-light",
 		"body": [
-			"rgba(#FFF, 0.5)"
+			"rgba(255, 255, 255, 0.5)"
 		]
 	},
 	"Material Dividers Text Light": {
 		"prefix": "md-dividers-text-light",
 		"body": [
-			"rgba(#FFF, 0.12)"
+			"rgba(255, 255, 255, 0.12)"
 		]
 	},
 	"Material Primary Text Dark": {
 		"prefix": "md-primary-text-dark",
 		"body": [
-			"rgba(#000, 0.87)"
+			"rgba(0, 0, 0, 0.87)"
 		]
 	},
 	"Material Secondary Text Dark": {
 		"prefix": "md-secondary-text-dark",
 		"body": [
-			"rgba(#000, 0.54)"
+			"rgba(0, 0, 0, 0.54)"
 		]
 	},
 	"Material Hint Text Dark": {
 		"prefix": "md-hint-text-dark",
 		"body": [
-			"rgba(#000, 0.38)"
+			"rgba(0, 0, 0, 0.38)"
 		]
 	},
 	"Material Dividers Text Dark": {
 		"prefix": "md-dividers-text-dark",
 		"body": [
-			"rgba(#000, 0.12)"
+			"rgba(0, 0, 0, 0.12)"
 		]
 	},
 
@@ -1593,25 +1593,25 @@
 	"Material Active Icon Dark": {
 		"prefix": "md-active-icon-dark",
 		"body": [
-			"rgba(#000, 0.54)"
+			"rgba(0, 0, 0, 0.54)"
 		]
 	},
 	"Material Inactive Icon Dark": {
 		"prefix": "md-inactive-icon-dark",
 		"body": [
-			"rgba(#000, 0.38)"
+			"rgba(0, 0, 0, 0.38)"
 		]
 	},
 	"Material Active Icon Light": {
 		"prefix": "md-active-icon-light",
 		"body": [
-			"rgba(#FFF, 1)"
+			"rgba(255, 255, 255, 1)"
 		]
 	},
 	"Material Inactive Icon Light": {
 		"prefix": "md-inactive-icon-light",
 		"body": [
-			"rgba(#FFF, 0.5)"
+			"rgba(0, 0, 0, 0.5)"
 		]
 	},
 
